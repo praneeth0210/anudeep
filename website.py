@@ -18,8 +18,8 @@ def local_css(file_name):
 local_css("style.css")              
 
 lottie_coding = load_lottieurl("https://assets1.lottiefiles.com/packages/lf20_TecLfM.json")
-img_contact_force = Image.open("images/WhatsApp Image 2023-05-22 at 20.51.02.png")
-img_lottie_animation = Image.open("images/WhatsApp Image 2023-05-22 at 20.49.51.png")
+img_contact_force = Image.open("image/WhatsApp Image 2023-05-22 at 20.51.02.png")
+img_lottie_animation = Image.open("image/WhatsApp Image 2023-05-22 at 20.49.51.png")
 
 with st.container():
     st.subheader("Hi i am praneeth")
